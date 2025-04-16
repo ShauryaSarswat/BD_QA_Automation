@@ -1,0 +1,19 @@
+{
+  "evaluation": [
+    {
+      "Timestamp": "00:00:00-00:00:10",
+      "Point": "The material is used for patient education around the care plans provided by the organisation",
+      "Transcript": "Speaker 1: Ye company ka naam, jo organ.. se hai. Main dekhiye, sending kiya hai. Madam, ispe sab kuch likha hai, patient bhi padh sakte hain. Saari information ispe likhi hui hai."
+    },
+    {
+      "Timestamp": "00:00:00-00:00:20",
+      "Point": "The material is having all the care plan wise details mentioned on it",
+      "Transcript": "Speaker 1: Ye matlab haath pe bhi patient dekh sakte hain. Clinically bada wala bhi hai ma'am sending. Bada toh nahin, itna hi kardo ab. Matlab, ye bhi hai, woh bhi hai. Bade ka aagaya hai."
+    },
+    {
+      "Timestamp": "00:00:20-00:00:40",
+      "Point": "The material is having all the care plan wise details mentioned on it",
+      "Transcript": "Speaker 1: Toh kya number? Baaki koi bhi patient ho ma'am, abhi PCODs ya pregnancy ke, unhe ma'am aap trial mein add kar dijiyega so that main wapas aapke paas aana chahta hun unka feedback lekar. Matlab unhe hum one month ke premium plan ke andar rakhenge, free rahega woh. Baaki normally bhi ma'am jo patient aapko lagte hain unko pregnancy, pre-conception, weight management kaafi accha hai ma'am."
+    }
+  ]
+}

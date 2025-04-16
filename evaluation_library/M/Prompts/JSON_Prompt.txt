@@ -1,0 +1,16 @@
+Now as a quality analyst you have to evaluate the above diarised transcription and output the boolean values based on the below context #
+
+context :
+
+The material is used for the patient educations around the care plans provided by the organisation
+The material is having all the care plan wise details mentioned on it
+The above points must be considered for evaluation weather its a good meeting for material delivery or not, if the above points are covered by the sales representative then its good.
+
+The evaluation output must be given in the form of JSON
+{
+
+Timestamp : Timestamp where the sales guy talked about one of the above points,
+Point : Point about which the sales guy talked
+Transcript : Transcript part of the above timestamp of conversation in that context
+
+}
