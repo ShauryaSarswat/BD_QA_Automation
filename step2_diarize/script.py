@@ -15,9 +15,9 @@ genai.configure(api_key=API_KEY)
 
 # Configuration
 MODEL_NAME = "gemini-1.5-flash-latest" # Text-based model is sufficient
-INPUT_TRANSCRIPT_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/Material_Installation/Transcripts/Sushila Gupta.txt"
-OUTPUT_DIARIZED_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/Material_Installation/Diarizations/Sushila Gupta.txt"
-PROMPT_PATH = Path(__file__).parent / "prompt.txt"
+INPUT_TRANSCRIPT_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Transcripts/Seema Sharma.txt"
+OUTPUT_DIARIZED_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Diarizations/Seema Sharma.txt"
+PROMPT_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Prompts/Diarise_Prompt.txt"
 
 def diarize_transcript():
     """Performs speaker diarization on the input transcript."""

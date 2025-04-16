@@ -1,0 +1,22 @@
+{
+  "evaluations": [
+    {
+      "Timestamp": null,
+      "Point": "Careteam Introduction",
+      "Transcript": null,
+      "BooleanValue": false
+    },
+    {
+      "Timestamp": null,
+      "Point": "Benefits",
+      "Transcript": null,
+      "BooleanValue": false
+    },
+    {
+      "Timestamp": "Speaker 2: Haan morning mein aap wo call kar lein is time pe, 2 baje tak",
+      "Point": "Asking for suitable time to arrange a KYC Call",
+      "Transcript": "Speaker 2: Haan morning mein aap wo call kar lein is time pe, 2 baje tak\nSpeaker 1: 2 baje ke aas paas?\nSpeaker 2: Haan\nSpeaker 1: Theek hai Mam, main kal hi karwa deta hun na aapko.\nSpeaker 2: Haan 11 to 2 ke beech mein kar dijiye. Theek hai?",
+      "BooleanValue": true
+    }
+  ]
+}

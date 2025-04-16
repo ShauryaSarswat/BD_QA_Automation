@@ -16,9 +16,9 @@ genai.configure(api_key=API_KEY)
 
 # Configuration
 MODEL_NAME = "gemini-1.5-flash-latest"
-INPUT_DIARIZED_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/Material_Installation/Diarizations/Anupama Gangwal.txt"
-OUTPUT_JSON_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/Material_Installation/JSON/Anupama Gangwal.json"
-PROMPT_PATH = Path(__file__).parent / "prompt.txt"
+INPUT_DIARIZED_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Diarizations/Seema Sharma.txt"
+OUTPUT_JSON_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/JSON/Seema Sharma.json"
+PROMPT_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Prompts/JSON_Prompt.txt"
 
 def evaluate_for_json():
     """Evaluates the diarized transcript and outputs JSON."""

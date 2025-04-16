@@ -1,0 +1,19 @@
+{
+  "evaluation": {
+    "Careteam Introduction": false,
+    "Benefits": false,
+    "Asking for suitable time to arrange a KYC Call": true
+  },
+  "details": [
+    {
+      "Timestamp": "Speaker 1: Mam main kab aapke paas aa sakta hun vaapas iske liye?",
+      "Point": "Asking for suitable time to arrange a KYC Call",
+      "Transcript": "Mam main kab aapke paas aa sakta hun vaapas iske liye?"
+    },
+    {
+      "Timestamp": "Speaker 1: Kal aa jaiye aap evening mein ya to 6:30 - 7:00 baje.",
+      "Point": "Asking for suitable time to arrange a KYC Call",
+      "Transcript": "Kal aa jaiye aap evening mein ya to 6:30 - 7:00 baje."
+    }
+  ]
+}

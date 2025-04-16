@@ -1,0 +1,45 @@
+{
+  "evaluation": {
+    "CareteamIntroduction": {
+      "complete": false,
+      "details": [
+        {
+          "Timestamp": "Speaker 1: Mam jaise pregnancy plan mein hum na lactation counselling bhi karwate hai.",
+          "Point": "Lactation Counselling",
+          "Transcript": "Mam jaise pregnancy plan mein hum na lactation counselling bhi karwate hai."
+        }
+      ]
+    },
+    "Benefits": {
+      "doctorBenefits": false,
+      "patientBenefits": true,
+      "details": [
+        {
+          "Timestamp": "Speaker 1: Mam patient ko jaise aap app mein bhi add kar denge na to care team mein se karengi. Wo main hi bhul hi gayi abhi tumhari jab baat dekhi hai. Chalo batati hun. Thik hai. Mam ek patient the minus unhone to mam postpartum ke liye dobara se refill kiya tha. Usme kaafi questions bhi puchte hai. Around 180 questions. Pregnancy related questions. Patient ki koi tension.",
+          "Point": "Chat Support (implied)",
+          "Transcript": "Mam patient ko jaise aap app mein bhi add kar denge na to care team mein se karengi. Wo main hi bhul hi gayi abhi tumhari jab baat dekhi hai. Chalo batati hun. Thik hai. Mam ek patient the minus unhone to mam postpartum ke liye dobara se refill kiya tha. Usme kaafi questions bhi puchte hai. Around 180 questions. Pregnancy related questions. Patient ki koi tension."
+        },
+        {
+          "Timestamp": "Speaker 1: Mam jaise pregnancy plan mein hum na lactation counselling bhi karwate hai. To usme hum activities bhi kaafi karwate hai. Ye un patients ke liye jo fifth month ke baad mein add ho rahe hai. Latching techniques, through baby dummies, advantages of breastfeeding. Thik hai mam ye sab hum aise hi dete hai mam aap tension na le. Thik hai mam. Koi dikkat?",
+          "Point": "Diet, Yoga and Special Sessions (implied)",
+          "Transcript": "Mam jaise pregnancy plan mein hum na lactation counselling bhi karwate hai. To usme hum activities bhi kaafi karwate hai. Ye un patients ke liye jo fifth month ke baad mein add ho rahe hai. Latching techniques, through baby dummies, advantages of breastfeeding. Thik hai mam ye sab hum aise hi dete hai mam aap tension na le. Thik hai mam. Koi dikkat?"
+        }
+      ]
+    },
+    "KYCCall": {
+      "asked": true,
+      "details": [
+        {
+          "Timestamp": "Speaker 1: Mam ek ye na aapke is time pe available rehte hai na. Mam ek hamari team choti mam dietitian jo hai wo aapko ek call karegi.  thoda sa preference abhi jo bhi hai wo batane ke liye. Zyada wo kuch nahi karengi mam bas ek do minute ke liye karengi mam. Jaise evening mein aap kab available hongi?",
+          "Point": "Asking for suitable time for KYC call",
+          "Transcript": "Mam ek ye na aapke is time pe available rehte hai na. Mam ek hamari team choti mam dietitian jo hai wo aapko ek call karegi.  thoda sa preference abhi jo bhi hai wo batane ke liye. Zyada wo kuch nahi karengi mam bas ek do minute ke liye karengi mam. Jaise evening mein aap kab available hongi?"
+        },
+        {
+          "Timestamp": "Speaker 2: Shaam ko 6:30 se.",
+          "Point": "Response to time for KYC call",
+          "Transcript": "Shaam ko 6:30 se."
+        }
+      ]
+    }
+  }
+}

@@ -16,9 +16,9 @@ genai.configure(api_key=API_KEY)
 
 # Configuration
 MODEL_NAME = "gemini-1.5-flash-latest"
-INPUT_JSON_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/Material_Installation/JSON/Sushila Gupta.json"
-OUTPUT_BOOLEAN_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/Material_Installation/Boolean/Sushila Gupta.json"
-PROMPT_PATH = Path(__file__).parent / "prompt.txt"
+INPUT_JSON_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/JSON/Seema Sharma.json"
+OUTPUT_BOOLEAN_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Boolean/Seema Sharma.json"
+PROMPT_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Prompts/Boolean_Prompt.txt"
 
 def evaluate_for_boolean():
     """Evaluates the JSON input and outputs a boolean (0 or 1)."""

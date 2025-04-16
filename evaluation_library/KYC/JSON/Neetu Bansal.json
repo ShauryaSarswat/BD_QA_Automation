@@ -1,0 +1,39 @@
+{
+  "evaluation": {
+    "CareteamIntroduction": {
+      "complete": false,
+      "details": [
+        {
+          "Timestamp": null,
+          "Point": "Lactation Counsellor",
+          "Transcript": "pregnancy ke andar hum jo lactation counselling karvate hai na, toh usme jo topics hum cover karte hain vo hota hai, lactation techniques batate hain hum baby dummies ke through. Toh pura kaise positions hoti hai, hold kaise karna hai, ye sab pictures ke through visually batate hain. Advantages kya hai? Disadvantages kya hai? Ye sab batate hain iske. Kangaroo mother care ke bare mein bhi batate hain, aur breastfeeding for working mothers, store kaise karke rakhna hai ye batate hain."
+        }
+      ]
+    },
+    "Benefits": {
+      "doctorBenefits": false,
+      "patientBenefits": false,
+      "details": []
+    },
+    "KYCCall": {
+      "asked": true,
+      "details": [
+        {
+          "Timestamp": "Speaker 1: Ma'am ek mujhe puchna tha aap ma'am kis samay available rehti hai? Humare jo dietitian hai na ek small call aapko karenge, thoda sa preference lene ke liye. Ye toh unke liye tha.",
+          "Point": "Asking for suitable time to arrange a KYC Call",
+          "Transcript": "Ma'am ek mujhe puchna tha aap ma'am kis samay available rehti hai? Humare jo dietitian hai na ek small call aapko karenge, thoda sa preference lene ke liye. Ye toh unke liye tha."
+        },
+        {
+          "Timestamp": "Speaker 2: Kab karva sakte hain ma'am call unko?",
+          "Point": "Asking for suitable time to arrange a KYC Call",
+          "Transcript": "Kab karva sakte hain ma'am call unko?"
+        },
+        {
+          "Timestamp": "Speaker 1: Evening mein 6 to 8 ke beech mein.",
+          "Point": "Suggesting suitable time for KYC Call",
+          "Transcript": "Evening mein 6 to 8 ke beech mein."
+        }
+      ]
+    }
+  }
+}

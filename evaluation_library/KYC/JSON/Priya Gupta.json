@@ -1,0 +1,20 @@
+{
+  "evaluation": {
+    "careteam_introduction_complete": false,
+    "doctor_benefits_mentioned": false,
+    "patient_benefits_mentioned": true,
+    "kyc_call_time_requested": true
+  },
+  "details": [
+    {
+      "Timestamp": "Speaker 1: Hmm. Toh abhi, 10 se 11. 10 se 11 ke beech mein?",
+      "Point": "Asking for suitable time to arrange a KYC Call",
+      "Transcript": "Hmm. Toh abhi, 10 se 11. 10 se 11 ke beech mein?"
+    },
+    {
+      "Timestamp": "Speaker 1: Humaari jo team member hain vo ek baar chhota sa call aapko karengi jo dietitian hain vo. Thoda sa preferences bataane ke liye, ki kis tarah se hum kya karte hain.",
+      "Point": "Patient benefits mentioned (Dietician as part of care team)",
+      "Transcript": "Humaari jo team member hain vo ek baar chhota sa call aapko karengi jo dietitian hain vo. Thoda sa preferences bataane ke liye, ki kis tarah se hum kya karte hain."
+    }
+  ]
+}

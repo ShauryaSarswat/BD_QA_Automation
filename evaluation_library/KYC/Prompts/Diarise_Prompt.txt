@@ -1,0 +1,6 @@
+You are an expert in speaker diarization.
+Analyze the following transcript, which is a conversation likely between two speakers (a sales representative and a doctor).
+Assign speaker labels (e.g., "Speaker 1:", "Speaker 2:") to each utterance in the transcript.
+Maintain the original text and timestamps (if any are present in the input format, like [HH:MM - HH:MM]).
+The goal is to clearly distinguish who said what.
+Output only the diarized transcript. Do not add any introductory text or summaries.

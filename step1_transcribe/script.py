@@ -16,9 +16,9 @@ genai.configure(api_key=API_KEY)
 
 # Configuration
 MODEL_NAME = "gemini-1.5-pro-latest" # Or gemini-1.5-flash - Pro is generally better for audio
-INPUT_AUDIO_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/Material_Installation/Recordings/Sushila_Gupta.mp3"
-OUTPUT_TRANSCRIPT_PATH = Path(__file__).parent / "output.txt"
-PROMPT_PATH = Path(__file__).parent / "prompt.txt"
+INPUT_AUDIO_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Recordings/Seema Sharma.mp3"
+OUTPUT_TRANSCRIPT_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Transcripts/Seema Sharma.txt"
+PROMPT_PATH = Path(__file__).parent / "/Users/shauryasarswat/Desktop/experiment/evaluation_library/KYC/Prompts/Transcript_Prompt.txt"
 UPLOAD_TIMEOUT = 300 # seconds to wait for file processing
 
 def transcribe_audio():
